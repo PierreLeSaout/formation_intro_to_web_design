@@ -1,0 +1,17 @@
+Template of HTML file : 
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            
+        </body>
+    </head>
+</html>
+
+<title> </title>to get a title section (usually within <head>)
+<p> </p>for a paragraph
+<h[1,2,3,4,5,6]> </h> for different heading levels
+<br/> for a line jump
+<a href"https://www..com" Reference> </a> to get a web link
+<hr/> to draw a horizontal line
+<img src="file_path" alt="text" height="value" width="value" /> : Add an image to the document, with parameters
